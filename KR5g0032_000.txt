@@ -1,0 +1,7 @@
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 02:47:37.149979
+#+TITLE: 上清靈寶大法
+#+PROPERTY: DZID  DZ1223
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，31—345 四十五卷 正一部
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS HFL
